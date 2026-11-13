@@ -7,7 +7,7 @@ while True:
     userChoice = input("Guess the target or Quit (Q): ")
 
     if userChoice.upper() == "Q":
-        break
+       break
 
     userChoice = int(userChoice)
 
